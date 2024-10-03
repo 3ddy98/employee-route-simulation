@@ -1,3 +1,5 @@
+![route-optimized](https://github.com/user-attachments/assets/abf72f3b-4dc1-467a-8fbb-0f3b0cfc91ff)
+
 # Employee Route Simulation and Payroll Calculator
 
 This Python project simulates a group of employees visiting multiple stores, calculating driving distances, time spent in stores, and total payroll. The project uses Google Maps' API to calculate the driving distances and times between stores, and it generates reports of the employees' activity. It also visualizes the routes taken and stores visited on a map.
